@@ -54,3 +54,6 @@ C:\Users\yousu\source\repos\Employee Management\Employee Management\bin\Debug\ne
 C:\Users\yousu\source\repos\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.Views.pdb
 C:\Users\yousu\source\repos\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.csproj.CopyComplete
 C:\Users\yousu\source\repos\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Employee Management.genruntimeconfig.cache
+C:\Users\yousu\source\repos\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\yousu\source\repos\Employee Management\Employee Management\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\yousu\source\repos\Employee Management\Employee Management\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
