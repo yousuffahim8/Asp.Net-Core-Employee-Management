@@ -1,1 +1,4 @@
-.vs
+/root/
+    .gitignore
+    /dirA/
+    .vs
